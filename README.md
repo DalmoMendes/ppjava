@@ -27,5 +27,9 @@ Site: jsonschema2pojo.org
 
 http://127.0.0.1:8080/swagger-ui/index.html?configUrl=/v3/api-docs/swagger-config#/
 
+## Swagger:
+<img src="https://github.com/DalmoMendes/ppjava/blob/master/swagger-dalmo.jpg">
+## Schemas
+<img src="https://github.com/DalmoMendes/ppjava/blob/master/swagger-dalmo-schemas.jpg">
 ## Projeto Desafio DIO
-- falvojr
+- Referência: falvojr
