@@ -29,7 +29,9 @@ http://127.0.0.1:8080/swagger-ui/index.html?configUrl=/v3/api-docs/swagger-confi
 
 ## Swagger:
 <img src="https://github.com/DalmoMendes/ppjava/blob/master/swagger-dalmo.jpg">
-## Schemas
+
+## Schemas:
 <img src="https://github.com/DalmoMendes/ppjava/blob/master/swagger-dalmo-schemas.jpg">
-## Projeto Desafio DIO
+
+## Projeto Desafio DIO:
 - Referência: falvojr
